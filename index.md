@@ -7,13 +7,13 @@
 
 * Drug Development Life Cycle
     * [Julia Lab speeds up the drug approval process](http://news.mit.edu/2019/julia-lab-joins-team-speed-drug-approval-process-0125)
-    * [PUMAS: Pharmaceutical Modelling and Simulation](https://tutorials.pumas.ai/)
+    * [PUMAS: Pharmaceutical Modelling and Simulation](https://tutorials.pumas.ai/)r
 * Epidemiological Models
-    * [Pathogen.jl: Simulation, visualization, and inference tools for modelling the spread of infectious diseases](Pathogen.jl: Simulation, visualization, and inference tools for modelling the spread of infectious diseases)
-    * [Infectious Disease Transmission Network Modelling with Julia](Infectious Disease Transmission Network Modelling with Julia)
+    * [Pathogen.jl: Simulation, visualization, and inference tools for modelling the spread of infectious diseases](https://github.com/jangevaare/Pathogen.jl)
+    * [Infectious Disease Transmission Network Modelling with Julia](https://arxiv.org/abs/2002.05850)
     * [COVID-19 in Denmark: A model](https://doktormike.gitlab.io/post/covid-19/)
     * [Gillespie.jl](https://github.com/sdwfrost/Gillespie.jl). For a reference on Gillespie methods check out this excellent review by Des Higham.
-    * [SEIR model](SEIR model by Dr. Chris Rackauckas from the lab) by Dr. Chris Rackauckas from the lab
+    * [SEIR model](https://github.com/ChrisRackauckas/universal_differential_equations/tree/master/SEIR_exposure) by Dr. Chris Rackauckas from the lab
 * Scientific Machine Learning
     * See some results on COVID-19 data in [this presentation](https://drive.google.com/file/d/1NxFOtpNHl7oXpdSLM06TEN_oO8QylPYx/view) on Physics-informed machine learning with language-wide automatic differentiation.
     * [SciML: An Open Source Software Organization for Scientific Machine Learning](https://sciml.ai/2020/03/29/SciML.html)
